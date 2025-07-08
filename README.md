@@ -11,7 +11,7 @@
 ### 1.`FORK THE REPO`  
 
 <div align="center">
-  <a href="https://github.com/Princetech-bwb/BWB-XMD-/fork">
+  <a href="https://github.com/Princetech-bwb/BWB-XMD/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-red?style=for-the-badge" github="Fork the repository"/>
   </a>
 </div>
